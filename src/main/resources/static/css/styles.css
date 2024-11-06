@@ -1,0 +1,10 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#gameArea {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
